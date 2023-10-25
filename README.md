@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/AdityaRaj0001/ChatUtopia.git
    ```
 
 2. Frontend setup:
