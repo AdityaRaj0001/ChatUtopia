@@ -7,7 +7,7 @@ const bodyParser = require('body-parser')
 const mongoose = require("mongoose")
 const app = express()
 const jwt = require("jsonwebtoken");
-
+require('dotenv').config()
 const server = http.createServer(app)
 
 app.use(cors())
@@ -15,8 +15,8 @@ app.use(bodyParser.json())
 
 const io = new Server(server)
 
-// Connection to M<ongoDB
-const url = "mongodb+srv://meadityaraj0001:0uoBDALbz2qyRahT@cluster0.0xnl94m.mongodb.net/?retryWrites=true&w=majority"
+// Connection to MongoDB
+const url = process.env.MONGO_URI
 const connectToDatabase = () => {
     mongoose
         .connect(url)
