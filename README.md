@@ -1,6 +1,8 @@
 # ChatUtopia
 
-I am Beside you's (IBY) Assignment submission by ADITYA RAJ, 2021CEB1007, IIT ROPAR, CIVIL DEPT. 
+I am Beside you's (IBY) Assignment submission by ADITYA RAJ, 2021CEB1007, IIT ROPAR, CIVIL DEPT.
+
+[Deployment Link](https://chat-app-for-testing.vercel.app/)
 
 This is a chat application built with NEXT.js for the frontend and Express, Node.js, and MongoDB for the backend. The application allows users to engage in real-time chat with others using SOCKET.IO
 
