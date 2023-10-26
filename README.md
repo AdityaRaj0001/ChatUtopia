@@ -1,6 +1,6 @@
 # ChatUtopia
 
-This is a chat application built with NEXT.js for the frontend and Express, Node.js, and MongoDB for the backend. The application allows users to engage in real-time chat with others.
+This is a chat application built with NEXT.js for the frontend and Express, Node.js, and MongoDB for the backend. The application allows users to engage in real-time chat with others using SOCKET.IO
 
 ## Table of Contents
 
