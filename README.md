@@ -67,7 +67,14 @@ Before you begin, ensure you have met the following requirements:
 
 - Access the chat application by opening your web browser and navigating to [http://localhost:3000](http://localhost:3000).
 - Sign up or log in to start chatting with other users.
-- Explore the features and enjoy real-time messaging with your friends.
+- Click on a user from the list of "Users" to send them to DM list, then further click on your DM's and start a real time conversation!
+ ![image](https://github.com/AdityaRaj0001/ChatUtopia/assets/92699283/be7558ec-a9b1-46f5-8182-52bc29663818)
+ ![image](https://github.com/AdityaRaj0001/ChatUtopia/assets/92699283/9d2a15fd-62e4-47f5-ac07-94f2ebc8c6a6)
+- Click on the "Plus" icon and type the name of the group in the INPUT box, also select the members from the available list of "users" and hit "OK" to create a chat with multiple users in realtime!
+ ![image](https://github.com/AdityaRaj0001/ChatUtopia/assets/92699283/038c8c9a-c2e5-4d78-a612-a75422acc7ca)
+
+
+
 
 ## Contributing
 
